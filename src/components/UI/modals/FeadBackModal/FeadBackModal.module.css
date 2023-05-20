@@ -1,0 +1,14 @@
+.feadback {
+    min-width: 400px;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+.item span:first-child{
+    font-weight: 600;
+}

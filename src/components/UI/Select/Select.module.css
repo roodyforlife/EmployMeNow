@@ -1,0 +1,33 @@
+select {
+    width: 100%;
+    height: 40px;
+    border-radius: 5px;
+    border: 1px solid #ebebeb;
+    padding: 0 10px;
+    font-size: 16px;
+}
+
+.block {
+    position: relative;
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.holder {
+    display: block;
+    position: absolute;
+    background: white;
+    top: -5px;
+    left: 20px;
+    padding: 0 7.5px;
+    color: rgb(139, 139, 139);
+}
+
+.validation {
+    color: rgb(218, 0, 65);
+}
+
+
+.error {
+    border: 1px solid rgb(218, 0, 65);
+}

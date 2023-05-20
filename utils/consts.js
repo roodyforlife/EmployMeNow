@@ -1,0 +1,14 @@
+export const LOGIN_ROUTE = '/login'
+export const REGIST_COMPANY_ROUTE = '/regist/company'
+/* export const REACT_API_URL = 'https://localhost:5001/' */
+export const REACT_API_URL = 'http://pylay1-001-site1.gtempurl.com/'
+export const DEFAULT_ROUTE = '*';
+export const MAIN_ROUTE = '/';
+export const ADMIN_ROUTE = '/admin';
+export const ADMIN_COMPANIES_ROUTE = '/admin/compamies';
+export const ADMIN_WORKERS_ROUTE = '/admin/workers';
+export const ADMIN_SKILLS_ROUTE = '/admin/skills';
+export const MY_COMPANY = '/company';
+export const MY_COMPANY_JOB = '/company/job/:id';
+export const GOOGLE_CLIENT_ID = "467379363313-ilj2a93ll3n4hqgo0cptv7tqghvlt799.apps.googleusercontent.com";
+export const GOOGLE_REGIST_COMPANY_ROUTE = '/regist/company/google'

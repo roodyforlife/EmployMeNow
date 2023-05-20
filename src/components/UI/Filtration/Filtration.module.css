@@ -1,0 +1,12 @@
+.filtration {
+    background: white;
+    padding: 20px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.title {
+    margin-bottom: 20px;
+    font-size: 18px;
+    text-align: center;
+}
